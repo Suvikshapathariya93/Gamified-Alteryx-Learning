@@ -123,7 +123,7 @@ A clean dataset ready for analysis and reporting
 - Optional visualization using Tableau or Power BI
 
 ## 🎯 Who Is This For?
-- Aspiring Data Analysts & Data Engineer
+- Aspiring Data Analysts & Data Engineers
 - Alteryx Beginners to Intermediate Users
 - Professionals looking to strengthen workflow design skills
 - Anyone who prefers learning by doing instead of memorizing
@@ -141,9 +141,16 @@ This project is not just about learning Alteryx, it demonstrates:
 - Structured learning design
 - Real-world data handling
 
-📬 Contact
+## 📬 Contact
 
-Feel free to connect for collaboration or feedback.
+✨ **I'm open to feedback and discussions! Reach out with any questions, suggestions, or collaboration ideas.** 
+
+👉 [LinkedIn | Suviksha Pathariya](https://www.linkedin.com/in/suviksha-pathariya/) 
+👉 [Instagram | Suviksha Pathariya](https://www.instagram.com/dataanalyst.play?igsh=eGRnZDQ2cTRta2Vz)
+
+⭐ **Don’t forget to star and follow this repository if you found it useful!** 
+
+💡 **Stay tuned for more features and updates coming soon!** 
 
 
 
