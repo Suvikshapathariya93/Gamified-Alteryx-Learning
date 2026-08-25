@@ -37,7 +37,7 @@ Use this dataset:
 - Sorted dataset ready for analysis
 
 ## 🎁Bonus Challenge
-- Identufy columns with potential data quality issues
+- Identify columns with potential data quality issues
 - Check for null values manually
   
 ## 📷Submission
